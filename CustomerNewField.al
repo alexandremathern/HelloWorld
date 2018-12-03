@@ -23,5 +23,6 @@ tableextension 50102 MyLedger extends "Cust. Ledger Entry"
     var
         myInt: Integer;
         MYINT2: Decimal;
+        myint3: Decimal;
 }
 
